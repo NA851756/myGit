@@ -1,1 +1,8 @@
 Adding the contents for my Sample git
+The new file added for the GIT Project
+1. Modules
+2. Insurance
+3. BFSI
+4. Automotive
+
+Sample file for showing the difference in the files of GIT Repository
