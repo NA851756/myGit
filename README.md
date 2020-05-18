@@ -1,5 +1,7 @@
 # myGit
 GIT Project
+Added branch 
+Added NewBranch for disbaling fast forward
 my first GIT repository
 1. Welcome
 2. Intro
